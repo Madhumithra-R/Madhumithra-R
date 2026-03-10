@@ -23,7 +23,7 @@
 
 ### 🧑‍💻 About Me
 
-B.E. CSE student at **KS Rangasamy College of Technology** (CGPA 8.5 · 2022–2026) passionate about **Web Dev**, **AI/ML** & **IoT** — shipping clean, production-ready solutions one commit at a time.
+On a mission to build what matters — B.E. CSE @ **K S Rangasamy College of Technology** (CGPA 8.7 · 2022–2026), engineering production-grade **Web** & **AI/ML** solutions, one bold commit at a time.
 
 </div>
 
@@ -39,7 +39,7 @@ B.E. CSE student at **KS Rangasamy College of Technology** (CGPA 8.5 · 2022–2
 
 ### 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,java,python,mysql,nodejs,git,github,vscode,vercel,arduino,figma&perline=8" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,java,python,mysql,nodejs,git,github,vscode,vercel" />
 
 </div>
 
@@ -70,28 +70,6 @@ B.E. CSE student at **KS Rangasamy College of Technology** (CGPA 8.5 · 2022–2
       <img src="https://img.shields.io/badge/Database-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
       <br><br>
       <a href="https://github.com/Madhumithra-R/secure-db-credentials-python" target="_blank"><img src="https://img.shields.io/badge/View%20Repo-0D1117?style=flat-square&logo=github&logoColor=white"/></a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/><br>
-      <b>🤗 hf-tokenizer-demo</b><br>
-      <sub>HuggingFace NLP tokenizer demo for ML tasks</sub><br><br>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-      <img src="https://img.shields.io/badge/NLP-A78BFA?style=flat-square"/>
-      <br><br>
-      <a href="https://github.com/Madhumithra-R/hf-tokenizer-demo" target="_blank"><img src="https://img.shields.io/badge/View%20Repo-0D1117?style=flat-square&logo=github&logoColor=white"/></a>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="40"/><br>
-      <b>🏠 SmartHome-Interactive-Demo</b><br>
-      <sub>IoT Smart Home simulation with Python automation</sub><br><br>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/IoT-14B8A6?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Smart%20Home-F97316?style=flat-square"/>
-      <br><br>
-      <a href="https://github.com/Madhumithra-R/SmartHome-Interactive-Demo" target="_blank"><img src="https://img.shields.io/badge/View%20Repo-0D1117?style=flat-square&logo=github&logoColor=white"/></a>
     </td>
   </tr>
 </table>
