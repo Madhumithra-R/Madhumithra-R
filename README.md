@@ -1,8 +1,26 @@
 <div align="center">
 
-# Madhumithra R
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,10,20,35,60,80,100&height=200&section=header&text=Madhumithra%20R&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20AI%2FML%20Explorer%20%7C%20IoT%20Builder&descAlignY=58&descSize=20" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1800&color=7C3AED&center=true&vCenter=true&width=700&height=80&lines=console.log('Hello%2C+Universe!');Full-Stack+%26+AI+Explorer;Building+Tomorrow's+Solutions;Web+%7C+ML+%7C+IoT" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1800&color=A78BFA&center=true&vCenter=true&width=750&height=70&lines=console.log('Hello%2C+Universe!+%F0%9F%9A%80');Full-Stack+%26+AI+Explorer+%E2%9C%A8;Building+Tomorrow's+Solutions+%F0%9F%94%A5;Web+%7C+ML+%7C+IoT+%7C+DSA" alt="Typing SVG" />
+
+<br>
+
+<a href="https://github.com/Madhumithra-R" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/madhumithra-r" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://madhumithra-portfolio.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-A78BFA?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+&nbsp;
+<a href="mailto:madhumithramithra8@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 </div>
 
@@ -12,27 +30,19 @@
 
 ### 🧑‍💻 About Me
 
-Passionate **Computer Science & Engineering** student crafting impactful solutions at the intersection of **Web Development**, **AI/ML**, and **IoT**.  
-Driven by curiosity, clean architecture, and daily learning. Turning ideas into production-ready digital experiences.
+I'm a passionate **Computer Science & Engineering** student from **KS Rangasamy College of Technology** (CGPA 8.5 · 2022–2026), building impactful solutions at the intersection of **Web Development**, **AI/ML**, and **IoT**. Based in Tiruchengode / Thanjavur, Tamil Nadu, I thrive on clean architecture, continuous learning, and shipping production-ready digital experiences — one concept, one commit at a time. Currently diving deep into **AI/ML** models and full-stack applications while grinding daily DSA on LeetCode & HackerRank. 📫 Reach me → [madhumithramithra8@gmail.com](mailto:madhumithramithra8@gmail.com)
 
 </div>
 
 <table align="center">
   <tr>
-    <td width="55%" valign="top">
-      <ul>
-        <li>🎓 B.E. CSE @ <b>KS Rangasamy College of Technology</b> · CGPA 8.5 · 2022–2026</li>
-        <li>📍 Tiruchengode / Thanjavur, Tamil Nadu, India</li>
-        <li>🔭 Currently diving deep into <b>AI/ML</b> models & Full-Stack apps</li>
-        <li>🌱 Always learning — one concept, one commit at a time</li>
-        <li>⚡ Daily DSA grind on LeetCode & HackerRank</li>
-        <li>📫 Reach me → <a href="mailto:madhumithramithra8@gmail.com">madhumithramithra8@gmail.com</a></li>
-      </ul>
-    </td>
-    <td width="45%" align="center">
+    <td width="55%" valign="middle" align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=Madhumithra-R&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=14B8A6&text_color=C9D1D9&count_private=true&rank_icon=github" width="100%"/>
       <br><br>
       <img src="https://streak-stats.demolab.com?user=Madhumithra-R&hide_border=true&background=0D1117&ring=A78BFA&fire=7C3AED&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=6B7280&currStreakNum=ffffff&sideNums=ffffff" width="100%"/>
+    </td>
+    <td width="45%" align="center" valign="middle">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhumithra-R&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&layout=donut&langs_count=8&cache_seconds=1800" width="90%"/>
     </td>
   </tr>
 </table>
@@ -40,7 +50,7 @@ Driven by curiosity, clean architecture, and daily learning. Turning ideas into 
 <div align="center">
   <br>
   <a href="https://madhumithra-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20My%20Full%20Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=7C3AED&labelColor=A78BFA&color=14B8A6" alt="Portfolio Badge" width="300"/>
+    <img src="https://img.shields.io/badge/Visit%20My%20Full%20Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=7C3AED&labelColor=A78BFA&color=14B8A6" alt="Portfolio Badge" width="320"/>
   </a>
   <br><br>
   <sub>Showcasing live projects, resume, detailed case studies, and more!</sub>
@@ -108,7 +118,7 @@ Driven by curiosity, clean architecture, and daily learning. Turning ideas into 
 </a>
 &nbsp;&nbsp;
 <a href="https://www.hackerrank.com/madhumithramithra8" target="_blank">
-  <img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+  <img src="https://img.shields.io/badge/HackerRank-madhumithramithra8-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
 </a>
 
 </div>
@@ -130,10 +140,10 @@ Driven by curiosity, clean architecture, and daily learning. Turning ideas into 
         <img src="https://img.icons8.com/fluency/64/chatbot.png" width="48" alt="Chatbot"/><br>
         <b>AI-Powered Chatbot</b><br>
         <sub>Built with Python + HuggingFace</sub><br><br>
-        <a href="https://github.com/Madhumithra-R/ai-chatbot">
+        <a href="https://github.com/Madhumithra-R/ai-chatbot" target="_blank">
           <img src="https://img.shields.io/badge/View%20Repo-0D1117?style=flat-square&logo=github&logoColor=white"/>
         </a>
-        <a href="https://your-live-demo.vercel.app">
+        <a href="https://your-live-demo.vercel.app" target="_blank">
           <img src="https://img.shields.io/badge/Live%20Demo-14B8A6?style=flat-square&logo=vercel&logoColor=white"/>
         </a>
       </td>
@@ -141,10 +151,10 @@ Driven by curiosity, clean architecture, and daily learning. Turning ideas into 
         <img src="https://img.icons8.com/fluency/64/home-automation.png" width="48" alt="IoT"/><br>
         <b>Smart IoT Home Automation</b><br>
         <sub>ESP32 + Mobile App</sub><br><br>
-        <a href="https://github.com/Madhumithra-R/iot-home">
+        <a href="https://github.com/Madhumithra-R/iot-home" target="_blank">
           <img src="https://img.shields.io/badge/View%20Repo-0D1117?style=flat-square&logo=github&logoColor=white"/>
         </a>
-        <a href="https://demo-link">
+        <a href="https://demo-link" target="_blank">
           <img src="https://img.shields.io/badge/Live%20Demo-14B8A6?style=flat-square&logo=vercel&logoColor=white"/>
         </a>
       </td>
@@ -152,17 +162,17 @@ Driven by curiosity, clean architecture, and daily learning. Turning ideas into 
         <img src="https://img.icons8.com/fluency/64/shopping-cart.png" width="48" alt="E-Commerce"/><br>
         <b>Full-Stack E-Commerce</b><br>
         <sub>Next.js + Node.js + MySQL</sub><br><br>
-        <a href="https://github.com/Madhumithra-R/ecommerce">
+        <a href="https://github.com/Madhumithra-R/ecommerce" target="_blank">
           <img src="https://img.shields.io/badge/View%20Repo-0D1117?style=flat-square&logo=github&logoColor=white"/>
         </a>
-        <a href="https://shop.vercel.app">
+        <a href="https://shop.vercel.app" target="_blank">
           <img src="https://img.shields.io/badge/Live%20Demo-14B8A6?style=flat-square&logo=vercel&logoColor=white"/>
         </a>
       </td>
     </tr>
   </table>
   <br>
-  <sub>More projects → <a href="https://madhumithra-portfolio.vercel.app/projects">Portfolio Site</a></sub>
+  <sub>More projects → <a href="https://madhumithra-portfolio.vercel.app/projects" target="_blank">Portfolio Site</a></sub>
 </div>
 
 <br>
@@ -173,13 +183,11 @@ Driven by curiosity, clean architecture, and daily learning. Turning ideas into 
 
 ### 📊 GitHub Analytics
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhumithra-R&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&layout=donut&langs_count=8&cache_seconds=1800" width="38%"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Madhumithra-R&theme=github_dark&utcOffset=5.5" width="45%"/>
-
-<br><br>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Madhumithra-R&bg_color=0D1117&color=A78BFA&line=7C3AED&point=14B8A6&hide_border=true&area=true&area_color=7C3AED" width="90%"/>
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Madhumithra-R&theme=github_dark&utcOffset=5.5" width="45%"/>
 
 </div>
 
