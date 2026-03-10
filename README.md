@@ -35,15 +35,14 @@
 
 I am a **Computer Science and Engineering student** at KS Rangasamy College of Technology, driven by a passion for building impactful digital solutions. I enjoy working at the intersection of **Web Development**, **AI/ML**, and **IoT** — transforming ideas into real-world applications.
 
-- 🎓 &nbsp; Pursuing **B.E. Computer Science & Engineering** at KSRCT *(CGPA: 8.5 | 2022–2026)*
-- 🌱 &nbsp; Currently deepening skills in **AI/ML model training** and **full-stack web development**
+- 🎓 &nbsp; Pursuing **B.E. Computer Science & Engineering** at KSRCT *(CGPA: 8.7 | 2022–2026)*
+- 🌱 &nbsp; Currently deepening skills in **AI/ML** and **full-stack web development**
 - ⚡ &nbsp; Passionate about building smart **IoT systems** and solving real-world problems
 - 🏆 &nbsp; Participated in **TNWISE Hackathon 2025** — driven by innovation & collaboration
 - 🎨 &nbsp; Served as **Event Coordinator & Volunteer** at ASCII Club
 - 📘 &nbsp; Active member of **Infosys Springboard Pragati (Cohort 3)**
 - 🎓 &nbsp; Student Representative at **Internshala Student Program**
 - ⚡ &nbsp; In my free time, I solve problems on **LeetCode** and **HackerRank**
-- 📍 &nbsp; Based in **Tiruchengode, Tamil Nadu, India**
 - 📫 &nbsp; Reach me: **madhumithramithra8@gmail.com**
 
 </td>
@@ -72,11 +71,11 @@ I am a **Computer Science and Engineering student** at KS Rangasamy College of T
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhumithra-R&theme=radical&hide_border=true&border_radius=10&layout=compact&langs_count=8" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhumithra-R&theme=radical&hide_border=true&layout=compact&langs_count=8&cache_seconds=1800" width="45%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Madhumithra-R&theme=redical&hide_border=true&border_radius=10&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Madhumithra-R&theme=github-compact&hide_border=true&area=true&color=F75CE7&line=F75CE7&point=FFFFFF" width="100%"/>
 
 </div>
 
