@@ -10,11 +10,11 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/madhumithra-r" target="_blank">
+<a href="https://www.linkedin.com/in/madhumithra-r/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
-<a href="https://madhumithra-portfolio.vercel.app/" target="_blank">
+<a href="https://madhumithra-portfolio-ochre.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-A78BFA?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 &nbsp;
@@ -49,7 +49,7 @@ I'm a passionate **Computer Science & Engineering** student from **KS Rangasamy 
 
 <div align="center">
   <br>
-  <a href="https://madhumithra-portfolio.vercel.app/" target="_blank">
+  <a href="https://madhumithra-portfolio-ochre.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Visit%20My%20Full%20Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=7C3AED&labelColor=A78BFA&color=14B8A6" alt="Portfolio Badge" width="320"/>
   </a>
   <br><br>
@@ -68,22 +68,22 @@ I'm a passionate **Computer Science & Engineering** student from **KS Rangasamy 
   <table>
     <tr>
       <td align="center" width="25%">
-        <img src="https://img.icons8.com/fluency/96/source-code.png" width="60" alt="Web Dev"/><br><br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" alt="Web Dev"/><br><br>
         <b>Web Development</b><br>
         <sub>Responsive • Modern • Performant UI/UX</sub>
       </td>
       <td align="center" width="25%">
-        <img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="60" alt="AI"/><br><br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="55" alt="AI"/><br><br>
         <b>Artificial Intelligence</b><br>
         <sub>ML • NLP • HuggingFace Transformers</sub>
       </td>
       <td align="center" width="25%">
-        <img src="https://img.icons8.com/fluency/96/iot-sensor.png" width="60" alt="IoT"/><br><br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="55" alt="IoT"/><br><br>
         <b>IoT Systems</b><br>
         <sub>ESP32 • Embedded • Smart Automation</sub>
       </td>
       <td align="center" width="25%">
-        <img src="https://img.icons8.com/fluency/96/combo-chart.png" width="60" alt="DSA"/><br><br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" alt="DSA"/><br><br>
         <b>DSA & Problem Solving</b><br>
         <sub>Algorithms • Daily LeetCode & HackerRank</sub>
       </td>
@@ -136,43 +136,63 @@ I'm a passionate **Computer Science & Engineering** student from **KS Rangasamy 
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="33%">
-        <img src="https://img.icons8.com/fluency/64/chatbot.png" width="48" alt="Chatbot"/><br>
-        <b>AI-Powered Chatbot</b><br>
-        <sub>Built with Python + HuggingFace</sub><br><br>
-        <a href="https://github.com/Madhumithra-R/ai-chatbot" target="_blank">
+      <td align="center" width="50%">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" alt="Weather"/><br>
+        <b>🌦️ Weather-Prediction</b><br>
+        <sub>A web app showing 5-day weather forecasts using the OpenWeatherMap API, displaying temperature, humidity, and conditions in a clean UI.</sub><br><br>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OpenWeatherMap-orange?style=flat-square"/>
+        <br><br>
+        <a href="https://github.com/Madhumithra-R/Weather-Prediction" target="_blank">
           <img src="https://img.shields.io/badge/View%20Repo-0D1117?style=flat-square&logo=github&logoColor=white"/>
-        </a>
-        <a href="https://your-live-demo.vercel.app" target="_blank">
-          <img src="https://img.shields.io/badge/Live%20Demo-14B8A6?style=flat-square&logo=vercel&logoColor=white"/>
         </a>
       </td>
-      <td align="center" width="33%">
-        <img src="https://img.icons8.com/fluency/64/home-automation.png" width="48" alt="IoT"/><br>
-        <b>Smart IoT Home Automation</b><br>
-        <sub>ESP32 + Mobile App</sub><br><br>
-        <a href="https://github.com/Madhumithra-R/iot-home" target="_blank">
+      <td align="center" width="50%">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" alt="Security"/><br>
+        <b>🔐 secure-db-credentials-python</b><br>
+        <sub>A Python project focused on securely managing and storing database credentials, implementing best practices for credential protection.</sub><br><br>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Security-DC2626?style=flat-square&logo=shield&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Database-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+        <br><br>
+        <a href="https://github.com/Madhumithra-R/secure-db-credentials-python" target="_blank">
           <img src="https://img.shields.io/badge/View%20Repo-0D1117?style=flat-square&logo=github&logoColor=white"/>
-        </a>
-        <a href="https://demo-link" target="_blank">
-          <img src="https://img.shields.io/badge/Live%20Demo-14B8A6?style=flat-square&logo=vercel&logoColor=white"/>
         </a>
       </td>
-      <td align="center" width="33%">
-        <img src="https://img.icons8.com/fluency/64/shopping-cart.png" width="48" alt="E-Commerce"/><br>
-        <b>Full-Stack E-Commerce</b><br>
-        <sub>Next.js + Node.js + MySQL</sub><br><br>
-        <a href="https://github.com/Madhumithra-R/ecommerce" target="_blank">
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48" alt="NLP"/><br>
+        <b>🤗 hf-tokenizer-demo</b><br>
+        <sub>A demonstration of HuggingFace tokenizers showcasing how modern NLP models process and tokenize text data for machine learning tasks.</sub><br><br>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/NLP-A78BFA?style=flat-square"/>
+        <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+        <img src="https://img.shields.io/badge/AI%2FML-14B8A6?style=flat-square"/>
+        <br><br>
+        <a href="https://github.com/Madhumithra-R/hf-tokenizer-demo" target="_blank">
           <img src="https://img.shields.io/badge/View%20Repo-0D1117?style=flat-square&logo=github&logoColor=white"/>
         </a>
-        <a href="https://shop.vercel.app" target="_blank">
-          <img src="https://img.shields.io/badge/Live%20Demo-14B8A6?style=flat-square&logo=vercel&logoColor=white"/>
+      </td>
+      <td align="center" width="50%">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="48" alt="SmartHome"/><br>
+        <b>🏠 SmartHome-Interactive-Demo</b><br>
+        <sub>An interactive Smart Home simulation built with Python, demonstrating IoT concepts and home automation through an intuitive demo interface.</sub><br><br>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/IoT-14B8A6?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Simulation-7C3AED?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Smart%20Home-F97316?style=flat-square"/>
+        <br><br>
+        <a href="https://github.com/Madhumithra-R/SmartHome-Interactive-Demo" target="_blank">
+          <img src="https://img.shields.io/badge/View%20Repo-0D1117?style=flat-square&logo=github&logoColor=white"/>
         </a>
       </td>
     </tr>
   </table>
   <br>
-  <sub>More projects → <a href="https://madhumithra-portfolio.vercel.app/projects" target="_blank">Portfolio Site</a></sub>
+  <sub>More projects → <a href="https://madhumithra-portfolio-ochre.vercel.app/" target="_blank">Portfolio Site</a></sub>
 </div>
 
 <br>
@@ -231,11 +251,11 @@ I'm a passionate **Computer Science & Engineering** student from **KS Rangasamy 
 
 <div align="center">
   <b>✦ Thanks for visiting — let's collaborate on something epic! ✦</b><br><br>
-  <a href="https://madhumithra-portfolio.vercel.app/" target="_blank">
+  <a href="https://madhumithra-portfolio-ochre.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Full%20Portfolio-A78BFA?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/madhumithra-r" target="_blank">
+  <a href="https://www.linkedin.com/in/madhumithra-r/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
