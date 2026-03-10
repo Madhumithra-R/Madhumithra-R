@@ -23,7 +23,8 @@
 
 ### 🧑‍💻 About Me
 
-On a mission to build what matters — B.E. CSE @ **K S Rangasamy College of Technology** (CGPA 8.7 · 2022–2026)
+On a mission to build what matters:)
+B.E. CSE @ **K S Rangasamy College of Technology** 
 
 </div>
 
