@@ -31,19 +31,41 @@
 
 <table width="100%">
 <tr>
-<td width="100%" valign="top">
+<td width="57%" valign="top">
 
-I am a **Computer Science and Engineering student** at KS Rangasamy College of Technology, driven by a passion for building impactful digital solutions. I enjoy working at the intersection of **Web Development**, **AI/ML**, and **IoT** — transforming ideas into real-world applications.
+I'm a **Computer Science & Engineering student** at KS Rangasamy College of Technology — passionate about building impactful solutions at the intersection of **Web Development**, **AI/ML**, and **IoT**.
 
-- 🎓 &nbsp; Pursuing **B.E. Computer Science & Engineering** at KSRCT *(CGPA: 8.7 | 2022–2026)*
-- 🌱 &nbsp; Currently deepening skills in **AI/ML** and **full-stack web development**
-- ⚡ &nbsp; Passionate about building smart **IoT systems** and solving real-world problems
-- 🏆 &nbsp; Participated in **TNWISE Hackathon 2025** — driven by innovation & collaboration
-- 🎨 &nbsp; Served as **Event Coordinator & Volunteer** at ASCII Club
-- 📘 &nbsp; Active member of **Infosys Springboard Pragati (Cohort 3)**
-- 🎓 &nbsp; Student Representative at **Internshala Student Program**
-- ⚡ &nbsp; In my free time, I solve problems on **LeetCode** and **HackerRank**
-- 📫 &nbsp; Reach me: **madhumithramithra8@gmail.com**
+> 🎓 &nbsp;**B.E. CSE @ KSRCT** &nbsp;|&nbsp; CGPA: 8.5 &nbsp;|&nbsp; 2022–2026
+> 📍 &nbsp;Tiruchengode, Tamil Nadu, India
+> 📫 &nbsp;madhumithramithra8@gmail.com
+
+<br/>
+
+```yaml
+currently:
+  focus:
+    web_dev   : HTML · CSS · JavaScript
+    ai_ml     : Model Training · Google Colab
+    iot       : ESP32 · Embedded Systems
+    dsa       : Java · LeetCode · HackerRank
+  status      : Open to Opportunities ✦
+```
+
+</td>
+<td width="3%"></td>
+<td width="40%" valign="top">
+
+**🏆 Highlights**
+
+| &nbsp; | &nbsp; |
+|:---:|:---|
+| 🏆 | TNWISE Hackathon 2025 |
+| 📘 | Infosys Springboard Pragati |
+| 🎨 | ASCII Club — Event Coordinator |
+| 🎓 | Internshala Student Rep |
+| 🤖 | IBM AI Honor Certificate |
+| ☕ | Infosys Java Certification |
+| 🧠 | AICTE AI-ML Internship 2025 |
 
 </td>
 </tr>
@@ -87,9 +109,7 @@ I am a **Computer Science and Engineering student** at KS Rangasamy College of T
 
 <img src="https://leetcard.jacoblin.cool/Madhumithra_R?theme=dark&font=Karma&ext=heatmap&border=0" width="49%"/>
 
-</div>
-
-<div align="center">
+<br/><br/>
 
 [![HackerRank](https://img.shields.io/badge/View%20My%20HackerRank%20Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/Madhumithra_R)
 
@@ -98,20 +118,6 @@ I am a **Computer Science and Engineering student** at KS Rangasamy College of T
 ![HackerRank Stars](https://img.shields.io/badge/Problem%20Solving-Gold%20★★★★★-FFD700?style=for-the-badge&logo=hackerrank&logoColor=black)
 ![HackerRank Java](https://img.shields.io/badge/Java-Silver%20★★★-C0C0C0?style=for-the-badge&logo=hackerrank&logoColor=black)
 ![HackerRank Python](https://img.shields.io/badge/Python-Bronze%20★★-CD7F32?style=for-the-badge&logo=hackerrank&logoColor=black)
-
-</div>
-
----
-
-### 🎖️ &nbsp; Certifications :
-
-<div align="center">
-
-| 🏅 | Certification | Issuer | Year |
-|:--:|:-------------|:-------|:----:|
-| 🤖 | AI Honor Certificate | IBM | 2024 |
-| ☕ | Java Developer Certification | Infosys Springboard | 2024 |
-| 🧠 | AI-ML Virtual Internship | AICTE | 2025 |
 
 </div>
 
