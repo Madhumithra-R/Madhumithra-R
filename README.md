@@ -16,7 +16,8 @@
 
 ### 🧑‍💻 About Me
 
-A zealous **Computer Science & Engineering** student passionate about **Web technologies** and **ERP Solutions**. Eager to work on applied research projects, gain exposure to advancements, and contribute to real-world applications in these domains.
+Passionate **Computer Science & Engineering** student crafting impactful solutions at the intersection of **Web Development**, **AI/ML**, and **IoT**.  
+Driven by curiosity, clean architecture, and daily learning. Turning ideas into production-ready digital experiences.
 
 </div>
 
@@ -25,14 +26,11 @@ A zealous **Computer Science & Engineering** student passionate about **Web tech
     <td width="55%" valign="top">
       <ul>
         <li>🎓 B.E. CSE @ <b>KS Rangasamy College of Technology</b> · CGPA 8.5 · 2022–2026</li>
-        <li>📚 HSC @ Adharsh Vidhyalaya Matric Hr. Sec. School · 87% · 2022</li>
-        <li>📖 SSLC @ Adharsh Vidhyalaya Matric Hr. Sec. School · 98% · 2020</li>
-        <li>📍 Tiruchengode, Tamil Nadu - 637205</li>
-        <li>🔭 Exploring AI/ML, IoT, and Full-Stack Development</li>
-        <li>🌱 Committed to daily learning and problem-solving</li>
-        <li>⚡ DSA practice on LeetCode & HackerRank</li>
-        <li>📫 <a href="mailto:madhumithramithra8@gmail.com">madhumithramithra8@gmail.com</a> | 📱 +91 96776 32414</li>
-        <li>🔗 <a href="https://linkedin.com/in/Madhumithra-R">LinkedIn</a> | <a href="https://github.com/Madhumithra-R">GitHub</a></li>
+        <li>📍 Tiruchengode / Thanjavur, Tamil Nadu, India</li>
+        <li>🔭 Currently diving deep into <b>AI/ML</b> models & Full-Stack apps</li>
+        <li>🌱 Always learning — one concept, one commit at a time</li>
+        <li>⚡ Daily DSA grind on LeetCode & HackerRank</li>
+        <li>📫 Reach me → <a href="mailto:madhumithramithra8@gmail.com">madhumithramithra8@gmail.com</a></li>
       </ul>
     </td>
     <td width="45%" align="center">
@@ -45,52 +43,43 @@ A zealous **Computer Science & Engineering** student passionate about **Web tech
 
 <div align="center">
   <br>
-  <a href="https://madhumithra-portfolio-ochre.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=7C3AED&labelColor=A78BFA&color=14B8A6" alt="Portfolio Badge" width="300"/>
+  <a href="https://madhumithra-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Full%20Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=7C3AED&labelColor=A78BFA&color=14B8A6" alt="Portfolio Badge" width="300"/>
   </a>
   <br><br>
-  <sub>Dive into detailed projects, resume, and case studies!</sub>
+  <sub>Showcasing live projects, resume, detailed case studies, and more!</sub>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
 
-### 🛠️ Technical Skills
-
-</div>
-
-<div align="center">
-  <b>Languages & Tools</b><br><br>
-  <img src="https://skillicons.dev/icons?i=java,github,vscode,eclipse&perline=4" /><br><br>
-
-  <b>Web & Database Technologies</b><br><br>
-  <img src="https://skillicons.dev/icons?i=html,css,js,sql&perline=4" /><br><br>
-
-  <b>Other Platforms</b><br><br>
-  <img src="https://skillicons.dev/icons?i=git,postman,colab&perline=3" />
-</div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<div align="center">
-
-### 📚 Internship & Experience
+### 🎯 Core Focus Areas
 
 </div>
 
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="50%">
-        <b>AICTE Virtual Internship in AI-ML</b><br>
-        <sub>Remote (Online) · April 2025 – June 2025</sub><br><br>
-        <i>Completed hands-on training in AI/ML concepts, including model training and data analysis using Google Colab and Weka.</i>
+      <td align="center" width="25%">
+        <img src="https://img.icons8.com/fluency/96/source-code.png" width="60"/><br><br>
+        <b>Web Development</b><br>
+        <sub>Responsive • Modern • Performant UI/UX</sub>
       </td>
-      <td align="center" width="50%">
-        <img src="https://img.shields.io/badge/AICTE%20Internship-AI%2FML%20Certified-7C3AED?style=for-the-badge&logo=googlecolab&logoColor=white" width="200"/>
+      <td align="center" width="25%">
+        <img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="60"/><br><br>
+        <b>Artificial Intelligence</b><br>
+        <sub>ML • NLP • HuggingFace Transformers</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.icons8.com/fluency/96/iot-sensor.png" width="60"/><br><br>
+        <b>IoT Systems</b><br>
+        <sub>ESP32 • Embedded • Smart Automation</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.icons8.com/fluency/96/combo-chart.png" width="60"/><br><br>
+        <b>DSA & Problem Solving</b><br>
+        <sub>Algorithms • Daily LeetCode & HackerRank</sub>
       </td>
     </tr>
   </table>
@@ -102,72 +91,55 @@ A zealous **Computer Science & Engineering** student passionate about **Web tech
 
 <div align="center">
 
-### 🌟 Featured Projects
+### 🛠️ Tech Stack
 
 </div>
 
 <div align="center">
+  <b>Languages & Core</b><br><br>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,java,python,mysql,nodejs&perline=8" /><br><br>
+
+  <b>Tools • Platforms • Others</b><br><br>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,arduino,raspberrypi,postman,docker,eclipse,figma&perline=8" /><br><br>
+
+  <b>Coding Platforms</b><br><br>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="48" alt="LeetCode"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.svg" width="140" alt="HackerRank"/>
+</div>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<div align="center">
+
+### 🌟 Featured Projects (Teaser)
+
+</div>
+
+<div align="center">
+  <!-- Add 3–4 real project cards here. Example placeholders: -->
   <table>
     <tr>
-      <td align="center" width="50%">
-        <b>IoT-Based Gas Detector Alert System</b><br>
-        <sub>Real-time gas leak detection using ESP32 and MQ-2 sensor, with alerts sent via Blynk app.</sub><br><br>
-        <a href="https://github.com/Madhumithra-R/iot-gas-detector">View Repo</a> • <a href="https://demo-link-if-live">Live Demo</a><br>
-        <img src="https://img.shields.io/badge/Tools-ESP32%2C%20MQ-2%2C%20Blynk-14B8A6?style=for-the-badge" width="180"/>
+      <td align="center">
+        <b>AI-Powered Chatbot</b><br>
+        <sub>Built with Python + HuggingFace</sub><br>
+        <a href="https://github.com/Madhumithra-R/ai-chatbot">View Repo</a> • <a href="https://your-live-demo.vercel.app">Live Demo</a>
       </td>
-      <td align="center" width="50%">
-        <b>Weather Forecasting Web App</b><br>
-        <sub>Interactive 5-day forecast app fetching data from OpenWeatherMap API, displaying temp, humidity, and conditions.</sub><br><br>
-        <a href="https://github.com/Madhumithra-R/weather-app">View Repo</a> • <a href="https://weather-app-demo.vercel.app">Live Demo</a><br>
-        <img src="https://img.shields.io/badge/Tools-HTML%2C%20CSS%2C%20JS%2C%20OpenWeatherMap-A78BFA?style=for-the-badge" width="200"/>
+      <td align="center">
+        <b>Smart IoT Home Automation</b><br>
+        <sub>ESP32 + Mobile App</sub><br>
+        <a href="https://github.com/Madhumithra-R/iot-home">View Repo</a> • <a href="https://demo-link">Live</a>
+      </td>
+      <td align="center">
+        <b>Full-Stack E-Commerce</b><br>
+        <sub>Next.js + Node.js + MySQL</sub><br>
+        <a href="https://github.com/Madhumithra-R/ecommerce">View Repo</a> • <a href="https://shop.vercel.app">Live</a>
       </td>
     </tr>
   </table>
   <br>
-  <sub>More projects & details → <a href="https://madhumithra-portfolio-ochre.vercel.app/projects">Full Portfolio</a></sub>
-</div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<div align="center">
-
-### 🏆 Achievements & Certifications
-
-</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <b>TNWISE Hackathon 2025</b><br>
-        <sub>Participant – Innovated through collaboration and skill-sharing.</sub>
-      </td>
-      <td align="center" width="33%">
-        <b>Infosys Springboard Pragati (Cohort 3)</b><br>
-        <sub>Active Member – Technical workshops, public speaking, and industry training.</sub>
-      </td>
-      <td align="center" width="33%">
-        <b>ASCII Club</b><br>
-        <sub>Event Coordinator & Volunteer – SDG-inspired artwork for global awareness.</sub>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="33%">
-        <b>Internshala Student Program</b><br>
-        <sub>Student Representative – Guided peers in skill-building.</sub>
-      </td>
-      <td align="center" width="33%">
-        <b>AI Honor Certificate</b><br>
-        <sub>IBM – Fundamentals of AI/ML.</sub>
-      </td>
-      <td align="center" width="33%">
-        <b>Java Developer Certification</b><br>
-        <sub>Infosys Springboard – Core Java skills.</sub>
-      </td>
-    </tr>
-  </table>
+  <sub>More projects → <a href="https://madhumithra-portfolio.vercel.app/projects">Portfolio Site</a></sub>
 </div>
 
 <br>
@@ -205,8 +177,9 @@ A zealous **Computer Science & Engineering** student passionate about **Web tech
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/Madhumithra_R?theme=dark&font=Karma&ext=heatmap&border=0&radius=10" width="60%"/>
   <br><br>
-  <a href="https://www.hackerrank.com/profile/Madhumithra_R" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-Badges:%20Java%2C%20Python%2C%20SQL-orange?style=for-the-badge&logo=hackerrank&logoColor=white&color=14B8A6" alt="HackerRank"/>
+  <!-- HackerRank: Replace YOUR_USERNAME -->
+  <a href="https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-Profile-orange?style=for-the-badge&logo=hackerrank&logoColor=white&color=14B8A6" alt="HackerRank"/>
   </a>
 </div>
 
@@ -233,8 +206,8 @@ A zealous **Computer Science & Engineering** student passionate about **Web tech
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
-  <b>✦ Thanks for visiting — let's collaborate on innovative projects! ✦</b><br><br>
-  <a href="https://madhumithra-portfolio-ochre.vercel.app/">Portfolio</a> • <a href="https://linkedin.com/in/Madhumithra-R">LinkedIn</a> • <a href="https://leetcode.com/u/Madhumithra_R/">LeetCode</a> • <a href="https://www.hackerrank.com/profile/Madhumithra_R">HackerRank</a>
+  <b>✦ Thanks for visiting — let's collaborate on something epic! ✦</b><br><br>
+  <a href="https://madhumithra-portfolio.vercel.app/" target="_blank">Full Portfolio</a> • LinkedIn • Email • Repos
 </div>
 
 <div align="center">
