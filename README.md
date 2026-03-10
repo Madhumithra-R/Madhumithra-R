@@ -1,286 +1,133 @@
+<!-- Header Banner -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:fff0f3,30:fce4ec,70:f8bbd0,100:f48fb1&height=230&section=header&text=M%20%C2%B7%20M&fontSize=90&fontColor=880e4f&fontAlignY=42&desc=MADHUMITHRA%20R&descSize=30&descColor=ad1457&descAlignY=65&animation=fadeIn" width="100%"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=400&size=21&duration=4000&pause=1500&color=AD1457&center=true&vCenter=true&width=750&lines=Computer+Science+%26+Engineering+·+KSRCT+·+2026;Web+Developer+·+AI-ML+Explorer+·+IoT+Enthusiast;Turning+curiosity+into+elegant+code+✦" />
-
-<br/>
-
-![](https://img.shields.io/badge/web%20developer-fce4ec?style=flat-square&labelColor=fce4ec&color=fce4ec)
-![](https://img.shields.io/badge/ai%20%26%20ml-fce4ec?style=flat-square&labelColor=fce4ec&color=fce4ec)
-![](https://img.shields.io/badge/iot%20systems-fce4ec?style=flat-square&labelColor=fce4ec&color=fce4ec)
-![](https://img.shields.io/badge/open%20to%20opportunities%20✦-f48fb1?style=flat-square&labelColor=f48fb1&color=f48fb1)
-
-<br/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=Madhumithra-R&style=flat-square&color=ad1457&label=profile+views)](https://github.com/Madhumithra-R)
-&nbsp;·&nbsp;
-[![Portfolio](https://img.shields.io/badge/portfolio↗-fce4ec?style=flat-square&labelColor=fce4ec)](https://madhumithra-portfolio-ochre.vercel.app/)
-&nbsp;·&nbsp;
-[![LinkedIn](https://img.shields.io/badge/linkedin↗-fce4ec?style=flat-square&labelColor=fce4ec)](https://linkedin.com/in/Madhumithra-R)
-&nbsp;·&nbsp;
-[![Email](https://img.shields.io/badge/email↗-fce4ec?style=flat-square&labelColor=fce4ec)](mailto:madhumithramithra8@gmail.com)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=MADHUMITHRA%20R&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=B.E.%20CSE%20%7C%20KSRCT%20%7C%20Web%20Dev%20%26%20AI-ML%20Enthusiast&descAlignY=58&descColor=ffffff)
 
 </div>
 
-<br/>
+---
 
-<picture>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rose.png" width="100%"/>
-</picture>
+<div align="center">
 
-<br/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=764BA2&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Madhumithra+R!;💻+CSE+Student+%40+KSRCT;🌐+Web+Developer+%7C+AI-ML+Explorer;🚀+Building+Real-World+Projects;🏆+Hackathon+Participant)](https://git.io/typing-svg)
 
-<table width="100%" border="0" cellspacing="0" cellpadding="20">
+</div>
+
+---
+
+<table>
 <tr>
-<td width="52%" valign="top">
+<td width="50%" valign="top">
 
-### ✦ &nbsp; who i am
+### 🎯 Current Focus
+- 🌐 Web Development with HTML, CSS, JavaScript
+- 🤖 AI/ML concepts & model training
+- ☁️ IoT Projects & Smart Systems
+- 📚 Data Structures & Algorithms with Java
 
-I'm a **Computer Science student** at KS Rangasamy College of Technology, passionate about crafting elegant digital experiences where thoughtful design meets clean functionality.
+### 🛠️ Tech Languages & Tools
 
-I love the intersection of **creativity and logic** — whether it's building responsive web apps, exploring AI models, or designing smart IoT systems.
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<br/>
+### 💻 IDEs & Tools
 
-```
-📍  Tiruchengode, Tamil Nadu, India
-🎓  B.E. CSE  ·  CGPA 8.5  ·  Class of 2026
-📧  madhumithramithra8@gmail.com
-🌐  madhumithra-portfolio-ochre.vercel.app
-```
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
 </td>
-<td width="4%"></td>
-<td width="44%" valign="top">
+<td width="50%" valign="top">
 
-### ✦ &nbsp; currently
+### 📊 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=Madhumithra-R&color=764ba2&style=for-the-badge&label=PROFILE+VIEWS)
 
-```yaml
-learning:
-  - HTML · CSS · JavaScript
-  - AI/ML model training
-  - IoT & embedded systems
-  - Data structures with Java
+### 📈 Contribution Graph
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Madhumithra-R&theme=react-dark&bg_color=0d1117&color=764ba2&line=764ba2&point=ffffff&hide_border=true)
 
-building:
-  - Weather Forecasting Web App
-  - IoT Gas Detector Alert System
-
-achievements:
-  - 🏆 TNWISE Hackathon 2025
-  - 📘 Infosys Springboard Pragati
-  - 🏅 IBM AI Certificate
-  - 🤖 AICTE AI-ML Internship
-```
+### 🔥 GitHub Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=Madhumithra-R&theme=dark&hide_border=true&ring=764ba2&fire=764ba2&currStreakLabel=764ba2)](https://git.io/streak-stats)
 
 </td>
 </tr>
 </table>
 
-<br/>
+---
 
-<picture>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rose.png" width="100%"/>
-</picture>
-
-<br/>
-
+### 🏆 GitHub Trophies
 <div align="center">
 
-### ✦ &nbsp; tech stack
-
-<br/>
-
-**languages**
-
-<img src="https://skillicons.dev/icons?i=html,css,js,java,python,mysql&perline=6&theme=light" />
-
-<br/><br/>
-
-**tools & platforms**
-
-<img src="https://skillicons.dev/icons?i=vscode,eclipse,github,git,vercel,arduino&perline=6&theme=light" />
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Madhumithra-R&theme=darkhub&no-frame=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
-<br/>
+---
 
-<picture>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rose.png" width="100%"/>
-</picture>
-
-<br/>
-
-### ✦ &nbsp; featured projects
-
-<br/>
-
-<table width="100%">
-<tr>
-<td width="50%" align="center" valign="top">
-
-<img src="https://img.shields.io/badge/project%2001-f8bbd0?style=for-the-badge&labelColor=f8bbd0&color=f8bbd0"/>
-
-### 🌦️ Weather Forecasting App
-
-A clean, elegant web app that fetches real-time data from OpenWeatherMap API and displays a beautiful 5-day forecast with temperature, humidity, and conditions.
-
-<br/>
-
-![HTML5](https://img.shields.io/badge/HTML-f8bbd0?style=flat-square&logo=html5&logoColor=880e4f)
-![CSS3](https://img.shields.io/badge/CSS-f8bbd0?style=flat-square&logo=css3&logoColor=880e4f)
-![JavaScript](https://img.shields.io/badge/JS-f8bbd0?style=flat-square&logo=javascript&logoColor=880e4f)
-![API](https://img.shields.io/badge/OpenWeatherMap-f8bbd0?style=flat-square&logoColor=880e4f)
-
-</td>
-<td width="50%" align="center" valign="top">
-
-<img src="https://img.shields.io/badge/project%2002-f8bbd0?style=for-the-badge&labelColor=f8bbd0&color=f8bbd0"/>
-
-### 🔥 IoT Gas Detector System
-
-A smart safety device using ESP32 and MQ-2 sensor that detects gas leaks in real-time and instantly sends alerts through the Blynk IoT platform.
-
-<br/>
-
-![ESP32](https://img.shields.io/badge/ESP32-f8bbd0?style=flat-square&logoColor=880e4f)
-![MQ2](https://img.shields.io/badge/MQ--2%20Sensor-f8bbd0?style=flat-square&logoColor=880e4f)
-![Blynk](https://img.shields.io/badge/Blynk-f8bbd0?style=flat-square&logoColor=880e4f)
-![IoT](https://img.shields.io/badge/IoT-f8bbd0?style=flat-square&logoColor=880e4f)
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<picture>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rose.png" width="100%"/>
-</picture>
-
-<br/>
-
-### ✦ &nbsp; github stats
-
-<br/>
+### 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Madhumithra-R&show_icons=true&hide_border=true&bg_color=fff0f3&title_color=880e4f&icon_color=e91e8c&text_color=555555" height="170"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhumithra-R&layout=compact&hide_border=true&bg_color=fff0f3&title_color=880e4f&text_color=555555" height="170"/>
+![Stats](https://github-readme-stats.vercel.app/api?username=Madhumithra-R&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=764ba2&icon_color=764ba2)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Madhumithra-R&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=764ba2)
 
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Madhumithra-R&hide_border=true&background=fff0f3&ring=e91e8c&fire=ad1457&currStreakLabel=880e4f&sideLabels=880e4f&dates=999999&stroke=f8bbd0" width="65%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Madhumithra-R&bg_color=fff0f3&color=ad1457&line=e91e8c&point=880e4f&hide_border=true&area=true&area_color=f8bbd0" width="100%"/>
+[![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Madhumithra-R&theme=monokai)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 </div>
 
-<br/>
+---
 
-<picture>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rose.png" width="100%"/>
-</picture>
+### 🚀 Projects
 
-<br/>
+| Project | Description | Tools |
+|--------|-------------|-------|
+| 🌦️ **Weather Forecasting Web App** | 5-day forecast app showing temperature, humidity & conditions | HTML, CSS, JS, OpenWeatherMap API |
+| 🔥 **IoT Gas Detector Alert System** | Real-time gas leak detector with instant alerts via Blynk | ESP32, MQ-2 Sensor, Blynk |
+
+---
+
+### 🎓 Certifications
+
+- 🏅 **AI Honor Certificate** — IBM
+- ☕ **Java Developer Certification** — Infosys Springboard
+- 🤖 **AI-ML Virtual Internship** — AICTE
+
+---
+
+### 🌟 Extra-Curricular Activities
+
+- 🏆 **TNWISE Hackathon 2025** — Participant
+- 📘 **Infosys Springboard Pragati (Cohort 3)** — Active Member
+- 🎨 **ASCII Club** — Event Coordinator & Volunteer
+- 🎓 **Internshala Student Program** — Student Representative
+
+---
+
+### 🤝 Connect With Me
 
 <div align="center">
 
-### ✦ &nbsp; github trophies
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Madhumithra-R&theme=flat&no-frame=true&column=7&margin-w=8&title_color=880e4f&icon_color=e91e8c&text_color=ad1457&bg_color=fff0f3" width="100%"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Madhumithra-R)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Madhumithra-R)
+[![Portfolio](https://img.shields.io/badge/Portfolio-764ba2?style=for-the-badge&logo=vercel&logoColor=white)](https://madhumithra-portfolio-ochre.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madhumithramithra8@gmail.com)
 
 </div>
 
-<br/>
-
-<picture>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rose.png" width="100%"/>
-</picture>
-
-<br/>
+---
 
 <div align="center">
 
-### ✦ &nbsp; certifications
+### 🐍 My Contribution Snake
 
-<br/>
-
-| &nbsp;&nbsp; | certification | issuer | year |
-|:---:|:---|:---|:---|
-| 🏅 | AI Honor Certificate | IBM | 2024 |
-| ☕ | Java Developer Certification | Infosys Springboard | 2024 |
-| 🤖 | AI-ML Virtual Internship | AICTE | 2025 |
+![Snake animation](https://raw.githubusercontent.com/Madhumithra-R/Madhumithra-R/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
-<br/>
+---
 
-<picture>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rose.png" width="100%"/>
-</picture>
-
-<br/>
-
-<div align="center">
-
-### ✦ &nbsp; contribution snake
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Madhumithra-R/Madhumithra-R/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Madhumithra-R/Madhumithra-R/output/github-contribution-grid-snake.svg"/>
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/Madhumithra-R/Madhumithra-R/output/github-contribution-grid-snake.svg" width="100%"/>
-</picture>
-
-</div>
-
-<br/>
-
-<picture>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rose.png" width="100%"/>
-</picture>
-
-<br/>
-
-<div align="center">
-
-### ✦ &nbsp; let's connect
-
-<br/>
-
-<a href="https://linkedin.com/in/Madhumithra-R">
-<img src="https://img.shields.io/badge/LinkedIn-fce4ec?style=for-the-badge&logo=linkedin&logoColor=880e4f"/>
-</a>
-&nbsp;
-<a href="https://github.com/Madhumithra-R">
-<img src="https://img.shields.io/badge/GitHub-fce4ec?style=for-the-badge&logo=github&logoColor=880e4f"/>
-</a>
-&nbsp;
-<a href="https://madhumithra-portfolio-ochre.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-fce4ec?style=for-the-badge&logo=vercel&logoColor=880e4f"/>
-</a>
-&nbsp;
-<a href="mailto:madhumithramithra8@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-fce4ec?style=for-the-badge&logo=gmail&logoColor=880e4f"/>
-</a>
-
-<br/><br/>
-
-*"I believe beautiful code and beautiful design are two sides of the same coin."*
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:f48fb1,50:fce4ec,100:fff0f3&height=120&section=footer&text=thanks+for+visiting+·+star+⭐+if+you+liked+it&fontSize=14&fontColor=880e4f&animation=fadeIn&fontAlignY=60" width="100%"/>
-
-</div>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer)
