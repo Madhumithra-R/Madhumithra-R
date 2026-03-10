@@ -103,14 +103,7 @@ On a mission to build what matters — B.E. CSE @ **K S Rangasamy College of Tec
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
-  <b>✦ Thanks for visiting — let's build something epic! ✦</b><br><br>
-  <a href="https://madhumithra-portfolio-ochre.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-A78BFA?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/madhumithra-r/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  &nbsp;
-  <a href="mailto:madhumithramithra8@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  &nbsp;
-  <a href="https://github.com/Madhumithra-R" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <b>✦ Thanks for visiting — let's build something epic! ✦</b><br>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,10,20,35,60,80,100&height=140&section=footer&fontColor=ffffff&animation=twinkling" width="100%"/>
