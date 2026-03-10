@@ -27,9 +27,7 @@
 
 <br/>
 
-<picture>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rose.png" width="100%"/>
-</picture>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rose.png" width="100%"/>
 
 <br/>
 
@@ -44,7 +42,6 @@ I'm a **Computer Science student** at KS Rangasamy College of Technology, passio
 I love the intersection of **creativity and logic** — whether it's building responsive web apps, exploring AI models, or designing smart IoT systems.
 
 <br/>
-
 ```
 📍  Tiruchengode, Tamil Nadu, India
 🎓  B.E. CSE  ·  CGPA 8.5  ·  Class of 2026
@@ -57,7 +54,6 @@ I love the intersection of **creativity and logic** — whether it's building re
 <td width="44%" valign="top">
 
 ### ✦ &nbsp; currently
-
 ```yaml
 learning:
   - HTML · CSS · JavaScript
@@ -82,9 +78,7 @@ achievements:
 
 <br/>
 
-<picture>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rose.png" width="100%"/>
-</picture>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rose.png" width="100%"/>
 
 <br/>
 
@@ -108,9 +102,7 @@ achievements:
 
 <br/>
 
-<picture>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rose.png" width="100%"/>
-</picture>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rose.png" width="100%"/>
 
 <br/>
 
@@ -157,9 +149,7 @@ A smart safety device using ESP32 and MQ-2 sensor that detects gas leaks in real
 
 <br/>
 
-<picture>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rose.png" width="100%"/>
-</picture>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rose.png" width="100%"/>
 
 <br/>
 
@@ -185,9 +175,7 @@ A smart safety device using ESP32 and MQ-2 sensor that detects gas leaks in real
 
 <br/>
 
-<picture>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rose.png" width="100%"/>
-</picture>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rose.png" width="100%"/>
 
 <br/>
 
@@ -203,9 +191,7 @@ A smart safety device using ESP32 and MQ-2 sensor that detects gas leaks in real
 
 <br/>
 
-<picture>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rose.png" width="100%"/>
-</picture>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rose.png" width="100%"/>
 
 <br/>
 
@@ -225,9 +211,7 @@ A smart safety device using ESP32 and MQ-2 sensor that detects gas leaks in real
 
 <br/>
 
-<picture>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rose.png" width="100%"/>
-</picture>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rose.png" width="100%"/>
 
 <br/>
 
@@ -247,9 +231,7 @@ A smart safety device using ESP32 and MQ-2 sensor that detects gas leaks in real
 
 <br/>
 
-<picture>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rose.png" width="100%"/>
-</picture>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rose.png" width="100%"/>
 
 <br/>
 
