@@ -20,7 +20,7 @@
 ⚡ **Fun fact** - My to-learn list grows faster than I can finish it, and I'm okay with that!
 📚➡💻 Welcome to my learning journey! 🚀
 
-- 💬 Ask me about **Resume Writing & Review , Interview Prep**
+- 💬 Ask me about: **Resume Writing & Review , Interview Prep**
 
 - 📫 How to reach me: **[madhumithramithra8@gmail.com](mailto:madhumithramithra8@gmail.com)**
 
