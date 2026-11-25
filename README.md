@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Madhumithra R (Madhusamiq)
+# Hi there 👋, I'm Madhumithra R 
 
 **A passionate Web Developer & AI/ML Enthusiast from India**
 
