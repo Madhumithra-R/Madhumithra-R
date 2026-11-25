@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Madhumithra R
 
-**A passionate Web Developer & AI/ML Enthusiast from India**
+**A passionate Web Developer & AI/ML Enthusiast**
 
 > A curious mind, and a never-ending list of things I want to learn. That's pretty much me!
 > I believe the best careers aren't built by knowing everything, but by being willing to learn, experiment, fail, and try again.
@@ -13,13 +13,14 @@
 
 ✦ **𝐇𝐓𝐌𝐋** ✦ **𝐓𝐚𝐢𝐥𝐰𝐢𝐧𝐝 𝐂𝐒𝐒** ✦ **𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭** ✦ **𝐑𝐞𝐚𝐜𝐭 𝐉𝐒** ✦ **𝐉𝐚𝐯𝐚** ✦ **𝐒𝐐𝐋** ✦ **𝐆𝐢𝐭** ✦ **𝐆𝐢𝐭𝐇𝐮𝐛** ✦ **𝐏𝐫𝐨𝐛𝐥𝐞𝐦-𝐬𝐨𝐥𝐯𝐢𝐧𝐠** ✦ **𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐬𝐤𝐢𝐥𝐥𝐬**
 
-🎓 **B.E. Computer Science and Engineering | K S Rangasamy College of Technology | Class of 2026**
+🎓 **B.E. Computer Science and Engineering | K S Rangasamy College of Technology**
 
 👩‍💻 All of my projects are available at - [https://github.com/Madhumithra-R](https://github.com/Madhumithra-R)
 
-⚡ **Fun fact** - My to-learn list grows faster than I can finish it, and I'm okay with that! 📚➡💻 Welcome to my learning journey! 🚀
+⚡ **Fun fact** - My to-learn list grows faster than I can finish it, and I'm okay with that!
+📚➡💻 Welcome to my learning journey! 🚀
 
-- 💬 Ask me about **Web Development & AI/ML**
+- 💬 Ask me about **Resume Writing & Review , Interview Prep**
 
 - 📫 How to reach me: **[madhumithramithra8@gmail.com](mailto:madhumithramithra8@gmail.com)**
 
